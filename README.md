@@ -87,6 +87,7 @@ Findings and presentation were duly documented through Dashboard.
 
 #### SUMMARY AND RECOMMENDATIONS.
 The study of PALMORA Group with focus on gender related parameter is as summarized below.
+[PALMORA SUMMARY SHEET.xlsx](https://github.com/user-attachments/files/21025946/PALMORA.SUMMARY.SHEET.xlsx)
 
 
 
