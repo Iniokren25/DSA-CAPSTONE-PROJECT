@@ -1,6 +1,8 @@
 # DSA-CAPSTONE-PROJECT
 PROVIDING SOLUTION TO BUSINESS CHALLENGES
 
+=================================
+
 
 ## RESEARCH QUESTION
 
@@ -38,3 +40,58 @@ insider, has offered to give you pointers on areas you need to pay attention to
 - Calculate the amount to be paid as a bonus to individual employees.
 - Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
 - Total amount to be paid out per region and company-wide.
+
+- 
+
+- ## APPROACH AND FINDINGS.
+### TITLE: 
+#### PALMORA GROUP DASHBOARD HIGHLIGTING GENDER GAPS AND THE FACTORS THAT CONTRIBUTE TO IT.
+
+
+#### AIM
+TO FIND OUT HOW GENDER INCLUSIVENESS CONTRIBUTES TO WORK ORGANIZATIONAL PERFORMANCE======= ?????????????????????????????.
+
+
+#### OBJECTIVE 
+IS TO PROVIDE INSIGHT ON THE VARIABLES THAT PROMOTE GENDER DIFFERENCE AND  ELIMINATE GENDER BARRIER.
+
+
+#### RESEARCH QUESTIONS 
+Is Palmora Group ========= ?????????????????????????????//
+
+
+### STEPS
+#### DATA WRANGLING
+- Assigned a generic gender status "MALE" to employees with blank entry, (our constitution provides for only MALE and FEMALE. Also men are believed mostly to be bread winners of the family.
+- Deleted employees without Salary, they are believed to have left the organization.
+- Deleted employees without Department. Their contributions could not be traced to anywhere hence they are not known to the organization.
+- Remove duplicate entries.
+- Unpivoted the Bonus rule table staying at Department, merge it to employee data table, using full outer all Rows from both.
+- Ensured Column quality, Column profile and Column distribution were 100%.
+- 
+
+#### MODELLING: 
+
+
+#### ANALYSIS:
+- Done using the parameters provided. Also Conditional Columns were created to bring in new measures that would broaden the understanding about the organization.
+- 
+
+#### PRESENTATION: 
+Findings and presentation were duly documented through Dashboard.
+
+
+#### CONCLUSION:
+--------??? Your focus should be on gender-related issues within the organization and its
+
+
+#### SUMMARY AND RECOMMENDATIONS.
+The study of PALMORA Group with focus on gender related parameter is as summarized below.
+
+
+
+1) waivers in terms form of age etc should be granted to women to bring in more of them.
+
+2) quota should be allocated to women , covered in policies.
+
+3) specific training targeted at women should be organized. This will close the gap in salary.
