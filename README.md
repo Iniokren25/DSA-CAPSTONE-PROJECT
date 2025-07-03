@@ -86,10 +86,8 @@ Findings and presentation were duly documented through Dashboard.
 
 
 #### SUMMARY AND RECOMMENDATIONS.
-The study of PALMORA Group with focus on gender related parameter is as summarized below.
-
---- ![excel powerbi summary](https://github.com/user-attachments/assets/33401f60-91eb-4c56-9665-728e7e619ac6)
-
+### The study of PALMORA Group with focus on gender related parameter is as summarized below.
+#### ![excel powerbi summary](https://github.com/user-attachments/assets/33401f60-91eb-4c56-9665-728e7e619ac6)
 
 1) waiver in form of age should be granted to women to bring in more of them.
 2) quota should be allocated to women , covered in policies.
