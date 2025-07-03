@@ -4,7 +4,7 @@ PROVIDING SOLUTION TO BUSINESS CHALLENGES
 =================================
 
 
-## RESEARCH QUESTION
+## QUESTION
 
 ### Case Study 3: Palmora Group HR Analysis
 The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions. Unfortunately, the media recently published the news with the headline “Palmoria, the Manufacturing Patriarchy”. This doesn’t look good for the owners of the business, based on their ambition to scale the business to other regions and even overseas. Cases like this can only spiral downwards, revealing other issues like the gender pay gap, amongst other possible issues.
