@@ -89,6 +89,9 @@ Findings and presentation were duly documented through Dashboard.
 The study of PALMORA Group with focus on gender related parameter is as summarized below.
 
 1) waiver in form of age should be granted to women to bring in more of them.
-1) quota should be allocated to women , covered in policies.
+2) quota should be allocated to women , covered in policies.
+3) specific training targeted at women should be organized. This will close the gap in salary.
 
-2) specific training targeted at women should be organized. This will close the gap in salary.
+   --- 
+![excel powerbi summary](https://github.com/user-attachments/assets/06c94553-17be-460a-8a27-4f916870d459)
+
