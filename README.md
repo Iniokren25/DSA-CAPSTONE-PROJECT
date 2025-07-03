@@ -1,9 +1,6 @@
 # DSA-CAPSTONE-PROJECT 1
 PROVIDING SOLUTION TO BUSINESS CHALLENGES
 
-=================================
-
-
 ## QUESTION
 
 ### Case Study 3: Palmora Group HR Analysis
@@ -86,9 +83,8 @@ Findings and presentation were duly documented through Dashboard.
 
 
 #### SUMMARY AND RECOMMENDATIONS.
-### The study of PALMORA Group with focus on gender related parameter is as summarized below.
+#### The study of PALMORA Group with focus on gender related parameter is as summarized below.
 #### ![excel powerbi summary](https://github.com/user-attachments/assets/33401f60-91eb-4c56-9665-728e7e619ac6)
-
 1) waiver in form of age should be granted to women to bring in more of them.
 2) quota should be allocated to women , covered in policies.
 3) specific training targeted at women should be organized. This will close the gap in salary.
