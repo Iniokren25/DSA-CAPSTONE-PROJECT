@@ -93,5 +93,3 @@ The study of PALMORA Group with focus on gender related parameter is as summariz
 3) specific training targeted at women should be organized. This will close the gap in salary.
 
    --- 
-![excel powerbi summary](https://github.com/user-attachments/assets/06c94553-17be-460a-8a27-4f916870d459)
-
