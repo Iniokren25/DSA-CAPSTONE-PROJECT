@@ -46,16 +46,11 @@ insider, has offered to give you pointers on areas you need to pay attention to
 
 
 #### AIM
-TO FIND OUT HOW GENDER INCLUSIVENESS CONTRIBUTES TO WORK ORGANIZATIONAL PERFORMANCE======= ?????????????????????????????.
+- Is to find out if gender inclusiveness influence organisational effectiveness
 
 
 #### OBJECTIVE 
-IS TO PROVIDE INSIGHT ON THE VARIABLES THAT PROMOTE GENDER DIFFERENCE AND  ELIMINATE GENDER BARRIER.
-
-
-#### RESEARCH QUESTIONS 
-Is Palmora Group ========= ?????????????????????????????//
-
+- Is to provide insight on the variables that promote gender difference and seek ways to eliminate gender barriers.
 
 ### STEPS
 #### DATA WRANGLING
@@ -65,8 +60,7 @@ Is Palmora Group ========= ?????????????????????????????//
 - Remove duplicate entries.
 - Unpivoted the Bonus rule table staying at Department, merge it to employee data table, using full outer all Rows from both.
 - Ensured Column quality, Column profile and Column distribution were 100%.
-- 
-
+  
 #### MODELLING: 
 
 
@@ -78,15 +72,11 @@ Is Palmora Group ========= ?????????????????????????????//
 Findings and presentation were duly documented through Dashboard.
 
 
-#### CONCLUSION:
---------??? Your focus should be on gender-related issues within the organization and its
-
-
 #### SUMMARY AND RECOMMENDATIONS.
 #### The study of PALMORA Group with focus on gender related parameter is as summarized below.
 #### ![excel powerbi summary](https://github.com/user-attachments/assets/33401f60-91eb-4c56-9665-728e7e619ac6)
-1) waiver in form of age should be granted to women to bring in more of them.
-2) quota should be allocated to women , covered in policies.
-3) specific training targeted at women should be organized. This will close the gap in salary.
+- waiver in form of age should be granted to women to bring in more of them.
+- quota should be allocated to women , covered in policies.
+- specific training targeted at women should be organized. This will close the gap in salary.
 
    
