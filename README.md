@@ -38,10 +38,10 @@ insider, has offered to give you pointers on areas you need to pay attention to
 - Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
 - Total amount to be paid out per region and company-wide.
 
-- 
+3## APPROACH AND FINDINGS.
+### PROJECT OVERVIEW: 
+Palmora Group is faced with gender issues in the organisation the analysis and findings should help the management team handle the issue beforer it escalates team would need to address. By using appropriate charts and other neccesary tools effort should focus on gender-related issues within the organization and its regions. It should also examine how this could be resould.
 
-- ## APPROACH AND FINDINGS.
-### TITLE: 
 #### PALMORA GROUP DASHBOARD HIGHLIGTING GENDER GAPS AND THE FACTORS THAT CONTRIBUTE TO IT.
 
 
